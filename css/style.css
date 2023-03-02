@@ -987,9 +987,9 @@ body {
    }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
    .wrapper {
-      max-width: 380px;
+      max-width: 480px;
    }
 
    .container {
